@@ -20,7 +20,7 @@
 
 ## Background
 
-This repository contains individual directories for the [weekly challenges][alteryx_weekly_challenges] posted in the [Alteryx community][alteryx_community].
+This repository contains individual directories for the [weekly challenges][alteryx_weekly_challenges] posted in the [Alteryx Community][alteryx_community].
 
 Alteryx is the leader in self-service data analytics and it provides analysts the unique ability to easily clean, prep, blend and analyze all of their data using a repeatable workflow and finally, deploy and share the analytics at scale for deeper insights in hours, not weeks.
 
@@ -75,13 +75,13 @@ I am a big Alteryx fan and love to solve weekly challenges and I'd definitely en
 
 Solving Alteryx weekly challenges is a great way to boost your ETL understanding & it also makes you familiar with tools and techniques used in Alteryx to solve complex problems quickly.
 
-You can follow my work at Alteryx community here: [Alteryx Community | @quantumudit][alteryx_community_profile]
+You can follow my work at Alteryx Community here: [Alteryx Community | @quantumudit][alteryx_community_profile]
 
 By using the below table you can easily navigate to any Alteryx challenge directory that I have in the repository:
 
 <details>
   <summary>
-    <strong> Table of Contents </strong>
+    <strong> :clipboard: Table of Contents :clipboard: </strong>
 </summary>
 
 <br >
@@ -89,7 +89,7 @@ By using the below table you can easily navigate to any Alteryx challenge direct
 In the below table, the columns indicate the following attributes related to the weekly challenge:
 
 - **Challenge No. :** Alteryx weekly challenge number
-- **Challenge :** The challenge name with an embedded link that redirects to the respective post in Alteryx community
+- **Challenge :** The challenge name with an embedded link that redirects to the respective post in Alteryx Community
 - **Proficiency Level :** The level of Alteryx expertise required to solve the challenge
 - **Subject :** The primary subject covered in the weekly challenge
 - **Highlights :** The key Alteryx tools/techniques that might be used to get the solution
