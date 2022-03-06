@@ -1,6 +1,6 @@
 ## Challenge - 01 : Join To Range
 
-### Problem Statement:
+### Problem Statement :
 
 A company in Australia has source data which is made up of a series of postal codes (eg. 2000, 2001, 2002 etc.) amongst some other data fields.
 
@@ -12,7 +12,7 @@ Then finally summarize the customer data by Region, Sales Rep, and Responder, th
 
 > Here is the weekly challenge link in the Alteryx community: [Challenge #1: Join to Range][community_link]
 
-### Concept & Highlights Covered
+### Concept & Highlights Covered :
 
 This challenge covers the following concepts:
 
@@ -25,7 +25,7 @@ The Alteryx tools and techniques that can be used to solve this challenge are as
 - Parse
 - Transform
 
-### Solution:
+### Solution :
 
 Here is the snippet of the workflow that achieves the required result:
 

@@ -1,6 +1,6 @@
 ## Challenge - 164 : Retail Therapy
 
-### Problem Statement:
+### Problem Statement :
 
 Determine the items of clothing that have the highest average rating.
 
@@ -11,7 +11,7 @@ The analysis should include :
 
 > Here is the weekly challenge link in the Alteryx community: [Challenge #164: Retail Therapy][community_link]
 
-### Concept & Highlights Covered
+### Concept & Highlights Covered :
 
 This challenge covers the following concepts:
 
@@ -24,7 +24,7 @@ The Alteryx tools and techniques that can be used to solve this challenge are as
 - Join
 - Transform
 
-### Solution
+### Solution :
 
 Here is the snippet of the workflow that achieves the required result:
 

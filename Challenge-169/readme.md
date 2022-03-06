@@ -1,12 +1,12 @@
 ## Challenge - 169 : Women's World Cup Wins
 
-### Problem Statement:
+### Problem Statement :
 
 Determine which team has won most of the games.
 
 > Here is the weekly challenge link in the Alteryx community: [Challenge #169: Women's World Cup Wins][community_link]
 
-### Concept & Highlights Covered
+### Concept & Highlights Covered :
 
 This challenge covers the following concepts:
 
@@ -19,7 +19,7 @@ The Alteryx tools and techniques that can be used to solve this challenge are as
 - Join
 - Transform
 
-### Solution
+### Solution :
 
 Here is the snippet of the workflow that achieves the required result:
 

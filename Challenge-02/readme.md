@@ -1,6 +1,6 @@
 ## Challenge - 02 : Preparing Delimited Data
 
-### Problem Statement:
+### Problem Statement :
 
 In the input file, there are two different delimiters (double quotes, single quotes) and they surround different data types.
 
@@ -8,7 +8,7 @@ Strip out the delimiters as superfluous and format the data in a nice way.
 
 > Here is the weekly challenge link in the Alteryx community: [Challenge #2: Preparing Delimited Data][community_link]
 
-### Concept & Highlights Covered
+### Concept & Highlights Covered :
 
 This challenge covers the following concepts:
 
@@ -19,7 +19,7 @@ The Alteryx tools and techniques that can be used to solve this challenge are as
 - Prepare
 - Parse
 
-### Solution
+### Solution :
 
 Here is the snippet of the workflow that achieves the required result:
 
