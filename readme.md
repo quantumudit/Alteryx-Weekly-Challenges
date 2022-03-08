@@ -119,6 +119,13 @@ In the below table, the columns indicate the following attributes related to the
         <td>Prepare, Parse</td>
     </tr>
     <tr>
+        <td>3</td>
+        <td><a href="./Challenge-03/">Running Averages</a></td>
+        <td>Intermediate</td>
+        <td>Data Preparation</td>
+        <td>Prepare, Join, Parse, Transform</td>
+    </tr>
+    <tr>
         <td>164</td>
         <td><a href="./Challenge-164/">Retail Therapy</a></td>
         <td>Basic</td>
