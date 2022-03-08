@@ -19,6 +19,8 @@ The Alteryx tools and techniques that can be used to solve this challenge are as
 - Join
 - Transform
 
+> The proficiency level required to solve the challenge is : **Basic**
+
 ### Solution :
 
 Here is the snippet of the workflow that achieves the required result:
@@ -27,5 +29,5 @@ Here is the snippet of the workflow that achieves the required result:
 
 <!-- Links -->
 
-[wf_snp]: ../RESOURCES/c169_wf.png
+[wf_snp]: ../RESOURCES/Workflow_Images/c169_wf.png
 [community_link]: https://community.alteryx.com/t5/Weekly-Challenge/Challenge-169-Women-s-World-Cup-Wins/td-p/430886/highlight/false

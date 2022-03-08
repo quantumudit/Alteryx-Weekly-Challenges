@@ -25,6 +25,8 @@ The Alteryx tools and techniques that can be used to solve this challenge are as
 - Parse
 - Transform
 
+> The proficiency level required to solve the challenge is : **Intermediate**
+
 ### Solution :
 
 Here is the snippet of the workflow that achieves the required result:
@@ -33,5 +35,5 @@ Here is the snippet of the workflow that achieves the required result:
 
 <!-- Links -->
 
-[wf_snp]: ../RESOURCES/c01_wf.png
+[wf_snp]: ../RESOURCES/Workflow_Images/c01_wf.png
 [community_link]: https://community.alteryx.com/t5/Weekly-Challenge/Challenge-1-Join-to-Range/td-p/36621
