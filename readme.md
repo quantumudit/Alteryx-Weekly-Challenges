@@ -126,6 +126,13 @@ In the below table, the columns indicate the following attributes related to the
         <td>Prepare, Join, Parse, Transform</td>
     </tr>
     <tr>
+        <td>4</td>
+        <td><a href="./Challenge-04/">Date Parsing</a></td>
+        <td>Difficult</td>
+        <td>Data Analysis</td>
+        <td>Prepare, Parse</td>
+    </tr>
+    <tr>
         <td>164</td>
         <td><a href="./Challenge-164/">Retail Therapy</a></td>
         <td>Basic</td>
